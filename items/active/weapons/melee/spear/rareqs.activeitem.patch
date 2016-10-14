@@ -1,0 +1,31 @@
+[
+  {
+    "op": "replace",
+    "path": "/builder",
+    "value": "/items/buildscripts/IHCbuildweapon.lua"
+  },
+  {
+    "op": "remove",
+    "path": "/builderConfig/0/palette"
+  },
+  {
+    "op": "add",
+    "path": "/builderConfig/0/palette1",
+    "value": "/items/active/weapons/colors/meleegreyr.weaponcolors"
+  },
+  {
+    "op": "add",
+    "path": "/builderConfig/0/palette2",
+    "value": "/items/active/weapons/colors/meleeblackr.weaponcolors"
+  },
+  {
+    "op": "add",
+    "path": "/builderConfig/0/palette3",
+    "value": "/items/active/weapons/colors/meleebluer.weaponcolors"
+  },
+  {
+    "op": "add",
+    "path": "/builderConfig/0/palette4",
+    "value": "/items/active/weapons/colors/meleeredr.weaponcolors"
+  }
+]
