@@ -11,11 +11,11 @@
   {
     "op": "add",
     "path": "/builderConfig/0/palette1",
-    "value": "/items/active/weapons/colors/ranged1.weaponcolors"
+    "value": "/items/active/weapons/colors/rangedgreyu.weaponcolors"
   },
   {
     "op": "add",
     "path": "/builderConfig/0/palette2",
-    "value": "/items/active/weapons/colors/ranged2.weaponcolors"
+    "value": "/items/active/weapons/colors/rangedredu.weaponcolors"
   }
 ]
