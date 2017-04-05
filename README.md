@@ -1,13 +1,18 @@
-# sbmod-colarm
+![_previewimage]
 
-Code licensed under GPLv3, file included
+# sbmod-
+# readme
 
-community.playstarbound.com/threads/124193/
+Project licensed under a modified [MIT license], file included.
 
-Consider permission granted to take over this mod IF
+See also [ATTRIBUTION.md], [CHANGELOG.md], [DOC.md], and [_metadata].
 
-I have been inactive for longer than 1 month
-AND
-a request is sent via message on the forums and a response takes longer than 1 week.
+You can contact the author on the official Starbound forums [MEGATHREAD].
 
-Find all other pertinent information in the _metadata file.
+[_previewimage]: _previewimage
+[MIT license]: LICENSE
+[ATTRIBUTION.md]: ATTRIBUTION.md
+[CHANGELOG.md]: ../master/CHANGELOG.md
+[DOC.md]: DOC.md
+[_metadata]: _metadata
+[MEGATHREAD]: http://community.playstarbound.com/threads/124193/
